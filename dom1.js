@@ -25,6 +25,10 @@
 //addItem.style.fontWeight='bold';
 //addItem.style.color="green";
 
+//let li=document.getElementsByTagName('li');
+//console.log(li);
+//li[2].style.backgroundColor='green';
+
 
 
 
