@@ -29,6 +29,21 @@
 //console.log(li);
 //li[2].style.backgroundColor='green';
 
+//let items=document.getElementsByClassName('.list-group');
+//console.log(items);
+
+//let items=document.getElementsByClassName('list-group-item');
+//for(let i=0;i<items.length;i++)
+//{
+    //items[i].style.backgroundColor='red';
+//}
+
+let li=document.getElementsByTagName('li');
+for(let i=0;i<li.length;i++)
+{
+    li[i].style.backgroundColor='red';
+}
+
 
 
 
